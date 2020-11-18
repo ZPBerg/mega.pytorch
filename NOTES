@@ -1,0 +1,4 @@
+See CUSTOMIZE.md
+- modify load_annos; format of indiv. annos is res = { above
+- new dataloader? Or attempt to match vid_mega.py?
+- modify mega model slightly 
